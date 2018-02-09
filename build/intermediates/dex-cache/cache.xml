@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fe3113c6162ed1a932be8bcd8bf875d4db0fa4ec">
+        <dex dex="/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e9e2a0c4393989a1ae15b3e3e6c8b43ea574e15c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e4ab0a9d37d879b0e02635fedddaa7b7b0bc8f8">
+        <dex dex="/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/pre-dexed/debug/instant-run_3405298bff632273a1b9fda65f0b218738fb57cb.jar" />
+    </item>
+
+</items>

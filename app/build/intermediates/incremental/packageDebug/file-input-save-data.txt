@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu May 11 21:56:02 EDT 2017
+2.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+7.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_simple_dynamo.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+4.set=DEX
+6.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/menu/simple_dynamo.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/karan/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
